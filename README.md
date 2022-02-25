@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1200/1*TRdTrfol0W0F-RQOZCeFig.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md.Mahmudul Hasan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate MERN stack Developer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
